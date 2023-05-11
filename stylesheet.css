@@ -1,0 +1,99 @@
+body {
+color: green;
+font-family: Verdana,Arial, Geneva, Arial Black;
+font-weight : Bolder;
+background-color:#F09B59;
+font-size: 25px;
+
+}
+
+h1 {
+color:green;
+text-align: center;
+text-decoration: underline;
+font-size:150%; 
+}
+h2 {
+color:green;  
+text-align: center;
+text-decoration: underline;
+font-size:1.2em
+}
+h3 {
+color:green;
+text-decoration: underline;
+
+}
+
+
+#para1homepage {
+color:blue;
+  
+}
+
+p.paragraph {
+
+font-size: 15px;
+line-height:1.5em;
+background-color:#e5e4d7;
+padding:40px;
+border-color: black;
+border-width:2px;
+border-style: solid;
+background-image:url(cloud2.jpg);
+border-bottom-left-radius:0px;
+border-bottom-right-radius:0px;
+border-top-left-radius:10px;
+border-top-right-radius:10px;
+
+}
+#para4homepage {
+
+font-size: 14px;
+line-height:1.9em;
+background-color:#e5e4d7;
+padding:40px;
+border-color:yellow;
+border-width:thick;
+border-style: ridge;
+margin:20px; 
+margin-top:50px;
+margin-left: 900px;
+padding-left:40px;
+}
+img.image{
+height:300px;
+width: 400px;
+display:block;
+text-align:  center;
+margin-left: auto;
+margin-right: auto;
+padding:4px;
+border-color: blue;
+border-width:2px;
+border-style: solid;
+
+}
+#divmain{
+color: black;
+}
+#divbass{
+color: black;
+}
+.divcontent{
+color: black;
+}
+.highlight{
+background-color:yellow;
+}
+
+a:link {
+color: blue;
+}
+a:visited {
+color: grey;
+}
+a:hover{
+color:#F15A51;
+}
+
